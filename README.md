@@ -1,4 +1,4 @@
-# Deploying vanilla files with GitHub Pages
+# Deploying react files with GitHub Pages
 
 [⬅ Version Française](./README-FR)
 
