@@ -5,7 +5,7 @@
 Why GitHub Pages? Well, quality hosting is often not free. GitHub Pages offers a decent service free of charge.
 {:.alert-info}
 
-## What does "deploy" mean in a react context?
+## What does "deploy" mean in a react world?
 
 React is an overlay for native JS. In concrete terms, it's a JS library, a set of functions that will simplify our lives. In doing so, developers will be working with a multitude of files during the development phase.
 
