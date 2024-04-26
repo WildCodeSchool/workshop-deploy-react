@@ -1,4 +1,4 @@
-# Déployer des fichiers classiques avec GitHub Pages
+# Déployer un projet React avec GitHub Pages
 
 [⬅ English version](./)
 
