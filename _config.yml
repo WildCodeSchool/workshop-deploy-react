@@ -11,7 +11,7 @@ defaults:
 
 style: dev
 title: Deploy 02 - React Frontend
-description: "How to deploy react sites with on related backedn and the base code hosted on GitHub."
+description: "How to deploy react sites with on related backend and the base code hosted on GitHub."
 show_clone: false
 show_toc: true
 lang: en
